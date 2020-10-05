@@ -5,7 +5,7 @@ class Chain {
             bodyA:bodyA,
             pointB:pointB,
             stiffness:0.02,
-            length:0.1,
+            // length:1,
         }
 
 // created the chain constraint 

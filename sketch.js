@@ -37,7 +37,7 @@ function setup() {
 	mango10 = new Mango(580,254,10);
 
 // created the stone and the chain  
-  stone =  new Stone(60,448,20);
+  stone =  new Stone(60,448,15);
 	chain = new Chain(stone.body,{x:60,y:448});
   
 	Engine.run(engine);
